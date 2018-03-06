@@ -1,0 +1,8 @@
+title: Eduardo Pataki
+description: Programador de Jogos Digitais e WebDesigner
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
